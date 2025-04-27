@@ -1,4 +1,4 @@
-Description
+Description:
 The English Word Dictionary is a simple and interactive web application created using HTML and JavaScript. It allows users to search for any English word and view its meaning. With a clean and responsive design, users can easily find word definitions, making it a helpful tool for learning and quick reference.
 
 Features
@@ -15,9 +15,9 @@ HTML5
 
 JavaScript (Vanilla)
 
-(Optional) CSS3 for basic styling
+CSS3 for basic styling
 
-(Optional) Dictionary API (like Free Dictionary API) for fetching meanings
+ Dictionary API (like Free Dictionary API) for fetching meanings
 
 How to Run
 Clone or download the repository.
